@@ -51,7 +51,10 @@ if (isset($_POST['submit'])) {
 
     $date_1 = $_POST["date_1"];
     $date_2 = $_POST["date_2"];
-
+    echo $date_1;
+    print "<br>";
+    echo $date_2;
+    echo '<br>';
     $day_1 = (int) explode("-", $date_1)[2];
     $month_1 = (int) explode("-", $date_1)[1];
     $year_1 = (int) explode("-", $date_1)[0];
