@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<studentInfo>
+	<id>20176783</id>
+	<name>
+		<firstname>Huy</firstname>
+		<lastname>Quyen</lastname>
+	</name>
+	<class>ICT.02-K62</class>
+	<university>HUST</university>
+	<birthdate>10/07/1999</birthdate>
+</studentInfo>
