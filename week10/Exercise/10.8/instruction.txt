@@ -1,0 +1,2 @@
+Import attached user.sql file in your MySQL database, or create your own based on the table in user.sqp
+Update config.php file according to your DB
